@@ -1,5 +1,5 @@
 # Online-Meeting-Software
-In this project we are going to implement an online meeting software using WebRTC
+In this project we are going to implement an online meeting and chatting software using WebRTC
 
 ## Online Meeting
 We will not be building this project from scratch but instead watch this youtube video to use as a foundation and make sure everything works correctly on our computers. 
