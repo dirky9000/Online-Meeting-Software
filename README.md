@@ -6,3 +6,6 @@ We will not be building this project from scratch but instead [watch this youtub
 
 ## Chatbox
 After finishing the online meeting, we will implement a chatting function, using [this online video](https://www.youtube.com/watch?v=rxzOqP9YwmM) this will allow the program to allow both video conference and also text chat. 
+
+## Important 
+Follow [this link](https://www.c-sharpcorner.com/blogs/npm-is-not-recognized-from-visual-studio) to run all necessary npm commands 
